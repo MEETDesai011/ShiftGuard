@@ -259,7 +259,7 @@ clinical-handoff-intelligence/
 ```
 
 ---
-.
+
 
 ## Author
 
